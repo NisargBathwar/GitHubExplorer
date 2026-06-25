@@ -6,17 +6,13 @@ A modern Android application built with **Jetpack Compose** that lets users sear
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home](screenshots/android%20photo/Screenshot_20260625_114705.png)
+| Home Screen | Search Results |
+|--------------|----------------|
+| <img src="screenshots/android%20photo/Screenshot_20260625_114705.png" width="250"/> | <img src="screenshots/android%20photo/Screenshot_20260625_114751.png" width="250"/> |
 
-### Search Results
-![Search](screenshots/android%20photo/Screenshot_20260625_114751.png)
-
-### User Details
-![Details](screenshots/android%20photo/Screenshot_20260625_114801.png)
-
-### Repositories
-![Repositories](screenshots/android%20photo/Screenshot_20260625_114811.png)
+| User Details | Repositories |
+|--------------|--------------|
+| <img src="screenshots/android%20photo/Screenshot_20260625_114801.png" width="250"/> | <img src="screenshots/android%20photo/Screenshot_20260625_114811.png" width="250"/> |
 
 ---
 
